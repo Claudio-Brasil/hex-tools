@@ -1,3 +1,3 @@
-'just writing some code'
-*emphasize something*
-**Make this sth stronger**
+'typing some code'
+*Emphasize*
+**Making it stronger**
