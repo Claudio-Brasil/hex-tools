@@ -1,5 +1,3 @@
 'typing some code'
-*Emphasize*
-**Making it stronger**
-'Doing some updating'
+one more update in january 20th
 Just adding more stuff
